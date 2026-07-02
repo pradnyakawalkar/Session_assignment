@@ -1,5 +1,6 @@
 import numpy as np
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 marks = np.random.randint(30,101,(10,5))
 print(marks)
@@ -33,6 +34,8 @@ print(marks[top3])
 # argmax() and argmin() find highest and lowest scorers.
 # argsort() helps find top students.
 =======
+=======
+>>>>>>> aa0dcaed7c9663c115c1d8e353332f775de9aae7
 try:
      n = int(input("Enter how mant numbers:"))
      arr = np.random.randint(10,101,n)
@@ -55,5 +58,9 @@ try:
           print("\nCannot reshape into 2D array")
 
 except ValueError:
+<<<<<<< HEAD
     print("Invalid Input")
 >>>>>>> 0fbd0d47662f02f06445dd11f5f3f9f690096b38
+=======
+    print("Invalid Input")
+>>>>>>> aa0dcaed7c9663c115c1d8e353332f775de9aae7

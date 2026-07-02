@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import numpy as np
 
 arr = np.random.randint(10,101,(5,6))
@@ -10,6 +11,8 @@ print("size",arr.size)
 print("data_type",arr.dtype)
 
 =======
+=======
+>>>>>>> aa0dcaed7c9663c115c1d8e353332f775de9aae7
 import numpy as np 
 arr = np.array([10,20,30,40,50])
 
@@ -21,5 +24,9 @@ print(arr.dtype)
 
 print(arr1)
 print(arr1.shape)
+<<<<<<< HEAD
 print(arr1.dtype)
 >>>>>>> 0fbd0d47662f02f06445dd11f5f3f9f690096b38
+=======
+print(arr1.dtype)
+>>>>>>> aa0dcaed7c9663c115c1d8e353332f775de9aae7

@@ -1,5 +1,6 @@
 import numpy as np
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 a = np.array([10, 20, 30, 40])
 b = np.array([1, 2, 3, 4])
@@ -14,6 +15,8 @@ print("Division:",a/b)
 print("Power:",a**b)
 print("Modulo:",a%b)
 =======
+=======
+>>>>>>> aa0dcaed7c9663c115c1d8e353332f775de9aae7
 A = np.array([[1,2,3],[4,5,6],[7,8,9]])
 B = np.array([[9,8,7],[6,5,4],[3,2,1]])
 
@@ -24,5 +27,9 @@ print("\nMatrix Multiplication")
 print(A @ B)
 
 print("\nElement-wise Multiplication")
+<<<<<<< HEAD
 print(A * B)
 >>>>>>> 0fbd0d47662f02f06445dd11f5f3f9f690096b38
+=======
+print(A * B)
+>>>>>>> aa0dcaed7c9663c115c1d8e353332f775de9aae7
